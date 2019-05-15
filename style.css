@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.parallax img {
+    max-width: 100%;
+}
+
+.header{
+    height: 100px;
+}
