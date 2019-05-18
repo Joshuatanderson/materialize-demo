@@ -1,13 +1,12 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    border: 0px;
-}
-
 .parallax img {
     max-width: 100%;
 }
 
 .header{
     height: 100px;
+}
+
+.card-image-image {
+    height: 300px;
+    object-fit: cover;
 }
